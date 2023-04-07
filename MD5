@@ -1,0 +1,15 @@
+4eb10cfd9f93bfa5b2e6c76ccab31990 *DESCRIPTION
+407d5d23d7fdb0b3e5eb17b5aebe15df *NAMESPACE
+3af0c3ea86d9f903c75f001816abc5af *NEWS.md
+1c0abd5158dd13df72b5654b16914836 *R/RcppExports.R
+59922cb6f56c1d7a984ea4a479938868 *R/aaa.R
+48f6dc5fe935603ba993942c3e43fe71 *R/interpfun.R
+8e62c5fb546ddc669dbc3de628fdc4be *README.md
+f3eed5a59dcac9b0fba8055bb8c27540 *cleanup
+365731b2a28dddb0fd264a3c5178bab9 *configure
+c4448a3b9e66d2e42e648744ad824aee *man/interpfun.Rd
+91bec53c6a0de6ce19162e5758be39de *src/Makevars.in
+f004802d61d418e4ab8d95c88ee8cafd *src/Makevars.win
+d7c2f844e24e3723576069706a022616 *src/RcppExports.cpp
+4b930c95274f07cbff2c1add9d3eaeb9 *src/interpolation.cpp
+0aadc7fc77577ebba5c28cc652c118f7 *src/interpolation_types.h
